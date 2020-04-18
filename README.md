@@ -19,7 +19,7 @@ Explore and cluster the neighborhoods in Toronto. You can decide to work with on
 
 #### I have attached a picture In case of unable to open 
 - Picture 1: visualize the map of Toronto with neighborhoods 
-
+![Image description](https://github.com/tgmumean/Segmenting-and-Clustering-Neighborhoods-in-Toronto/blob/master/capture-20200418-170307.png)
 
 - Picture 2: visualize the map of the resulting clusters
-
+![Image description](https://github.com/tgmumean/Segmenting-and-Clustering-Neighborhoods-in-Toronto/blob/master/capture-20200418-170342.png)
